@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+streamlit
+pandas
+requests
+python-dotenv
+=======
+streamlit
+pandas
+requests
+python-dotenv
+>>>>>>> 3d1577d (initial commmit)
